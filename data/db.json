@@ -1,0 +1,179 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Lapiz",
+      "precio": 1.5,
+      "stock": 40,
+      "activo": 1,
+      "img": "https://picsum.photos/300/300?random=1",
+      "categoria": "Material de Escritorio"
+    },
+    {
+      "id": 2,
+      "nombre": "Laptop",
+      "precio": 3330,
+      "stock": 10,
+      "activo": 1,
+      "img": "https://picsum.photos/300/300?random=2",
+      "categoria": "Material de TI"
+    },
+    {
+      "id": 3,
+      "nombre": "Celular",
+      "precio": 1500,
+      "stock": 15,
+      "activo": 1,
+      "img": "https://picsum.photos/300/300?random=3",
+      "categoria": "Material de Trabajo"
+    }
+  ],
+  "ventas": [
+    {
+      "fecha": "26/10/2023, 16:00:03",
+      "detalles": [
+        {
+          "producto_Id": 1,
+          "precio": 1.5,
+          "cantidad": 1
+        },
+        {
+          "producto_Id": 2,
+          "precio": 3330,
+          "cantidad": 1
+        },
+        {
+          "producto_Id": 3,
+          "precio": 1500,
+          "cantidad": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "fecha": "26/10/2023, 16:08:19",
+      "detalles": [
+        {
+          "producto_Id": 1,
+          "precio": 1.5,
+          "cantidad": 1
+        },
+        {
+          "producto_Id": 2,
+          "precio": 3330,
+          "cantidad": 1
+        },
+        {
+          "producto_Id": 3,
+          "precio": 1500,
+          "cantidad": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "fecha": "31/10/2023, 10:17:27",
+      "detalles": [
+        {
+          "producto_Id": 2,
+          "precio": 3330,
+          "cantidad": 1
+        },
+        {
+          "producto_Id": 3,
+          "precio": 1500,
+          "cantidad": 1
+        }
+      ],
+      "id": 3
+    },
+    {
+      "fecha": "31/10/2023, 10:17:28",
+      "detalles": [
+        {
+          "producto_Id": 3,
+          "precio": 1500,
+          "cantidad": 1
+        }
+      ],
+      "id": 4
+    },
+    {
+      "fecha": "31/10/2023, 10:17:29",
+      "detalles": [
+        {
+          "producto_Id": 3,
+          "precio": 1500,
+          "cantidad": 1
+        }
+      ],
+      "id": 5
+    },
+    {
+      "fecha": "31/10/2023, 10:17:31",
+      "detalles": [
+        {
+          "producto_Id": 3,
+          "precio": 1500,
+          "cantidad": 1
+        }
+      ],
+      "id": 6
+    },
+    {
+      "fecha": "31/10/2023, 10:17:32",
+      "detalles": [
+        {
+          "producto_Id": 3,
+          "precio": 1500,
+          "cantidad": 1
+        }
+      ],
+      "id": 7
+    },
+    {
+      "fecha": "31/10/2023, 10:17:32",
+      "detalles": [
+        {
+          "producto_Id": 3,
+          "precio": 1500,
+          "cantidad": 1
+        }
+      ],
+      "id": 8
+    },
+    {
+      "fecha": "31/10/2023, 10:17:32",
+      "detalles": [
+        {
+          "producto_Id": 3,
+          "precio": 1500,
+          "cantidad": 1
+        }
+      ],
+      "id": 9
+    },
+    {
+      "fecha": "31/10/2023, 10:17:32",
+      "detalles": [
+        {
+          "producto_Id": 3,
+          "precio": 1500,
+          "cantidad": 1
+        }
+      ],
+      "id": 10
+    },
+    {
+      "fecha": "31/10/2023, 10:17:32",
+      "detalles": [
+        {
+          "producto_Id": 3,
+          "precio": 1500,
+          "cantidad": 1
+        }
+      ],
+      "id": 11
+    }
+  ]
+}
